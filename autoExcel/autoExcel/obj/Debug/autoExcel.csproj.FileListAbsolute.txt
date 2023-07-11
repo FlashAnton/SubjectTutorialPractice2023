@@ -1,0 +1,9 @@
+C:\Users\flash\source\repos\autoExcel\autoExcel\bin\Debug\autoExcel.exe
+C:\Users\flash\source\repos\autoExcel\autoExcel\bin\Debug\autoExcel.pdb
+C:\Users\flash\source\repos\autoExcel\autoExcel\obj\Debug\autoExcel.csprojAssemblyReference.cache
+C:\Users\flash\source\repos\autoExcel\autoExcel\obj\Debug\autoExcel.csproj.ResolveComReference.cache
+C:\Users\flash\source\repos\autoExcel\autoExcel\obj\Debug\autoExcel.frmMain.resources
+C:\Users\flash\source\repos\autoExcel\autoExcel\obj\Debug\autoExcel.Properties.Resources.resources
+C:\Users\flash\source\repos\autoExcel\autoExcel\obj\Debug\autoExcel.csproj.GenerateResource.cache
+C:\Users\flash\source\repos\autoExcel\autoExcel\obj\Debug\autoExcel.exe
+C:\Users\flash\source\repos\autoExcel\autoExcel\obj\Debug\autoExcel.pdb
