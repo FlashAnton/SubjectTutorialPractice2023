@@ -1,0 +1,3 @@
+https://www.bezkoder.com/vue-node-express-postgresql/
+https://utyatnishna.ru/info/2785/how-to-overcome-the-cors-issue-in-reactjs
+https://github.com/typicode/json-server/issues/783
